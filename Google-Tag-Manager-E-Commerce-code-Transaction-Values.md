@@ -1,4 +1,4 @@
-##Transaction data
+## Transaction data
 
 GTM Data layer | Name | Sample | Required | Value Type | Additional comment
 ---------------|------|--------|----------|------------|-------------------
@@ -13,7 +13,7 @@ transactionPromoCode|Coupon / promotional code|Summer_sale_13|No|string|
 transactionProducts||gtm_products|Yes||**Don't not alter**
 
 
-##Product data
+## Product data
 
 GTM Data layer | Name | Sample | Required | Value Type | Additional comment
 ---------------|------|--------|----------|------------|-------------------
