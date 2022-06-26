@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-XXXX');</script>
 <!-- End Google Tag Manager -->
 ```
-
+_See how to fill the [transaction data values](https://github.com/TwanLammers/gtm_e-commerce/blob/main/Google-Tag-Manager-E-Commerce-code-Transaction-Values.md)_
 
 ## Benefits of Google Tag Manager and the Data Layer for E-Commerce
 - The E-Commerce code uses only standardised Data Layer which ensures full supported by Google Tag Manager.
